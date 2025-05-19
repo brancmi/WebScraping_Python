@@ -7,7 +7,7 @@ This repository contains a complete **end-to-end web scraping pipeline** to coll
 
 Build a data pipeline that:
 
-1. **Collects** notebook data using Scrapy.
+1. **Collects** data using Scrapy.
 2. **Transforms** and cleans the data with Pandas.
 3. **Stores** the results in a local SQLite database.
 4. **Visualizes** insights through an interactive **Streamlit dashboard**.
