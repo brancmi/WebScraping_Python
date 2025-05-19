@@ -1,7 +1,7 @@
 # 🖥️ Web Scraping w/ Python - End-to-End Project
 
 This repository contains a complete **end-to-end web scraping pipeline** to collect, transform, store, and visualize prices of **notebooks sold on Mercado Livre (Brazil)**.
----
+
 
 ## 🎯 Project Goal
 
@@ -12,7 +12,6 @@ Build a data pipeline that:
 3. **Stores** the results in a local SQLite database.
 4. **Visualizes** insights through an interactive **Streamlit dashboard**.
 
----
 
 ## 🔧 Tech Stack
 
